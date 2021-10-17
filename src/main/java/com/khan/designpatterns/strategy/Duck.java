@@ -1,4 +1,4 @@
-package com.tk.strategy;
+package com.khan.designpatterns.strategy;
 
 public class Duck {
     private FlyBehavior flyBehavior;
